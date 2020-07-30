@@ -1,1 +1,1 @@
-# SN
+# Projects from JetBrains Academy
